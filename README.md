@@ -8,7 +8,8 @@ Diseñar e implementar un proyecto analítico completo de extremo a extremo, aba
 ---
 
 ## 🖼 Visualización del Dashboard
-(Aquí puedes insertar la imagen final de tu dashboard de Power BI con el tema de café)
+![Dashboard Screenshot](./Cafe%20Sales%20Screenshot.png)
+
 
 ---
 
