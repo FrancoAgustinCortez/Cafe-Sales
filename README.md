@@ -1,7 +1,5 @@
 # 📊 Análisis de Ventas de Cafetería (Cafe Sales Analytics)
 
----
-
 ## 🎯 Objetivo del Proyecto
 Diseñar e implementar un proyecto analítico completo de extremo a extremo, abarcando la ingeniería de datos en PostgreSQL para la limpieza y transformación de registros transaccionales, y la construcción de un panel visual ejecutivo (dashboard) en Power BI Desktop con un diseño moderno en modo oscuro adaptado para un portafolio profesional.
 
